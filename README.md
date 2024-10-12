@@ -22,7 +22,7 @@ I'm a passionate **Computer Science** student specializing in **Artificial Intel
 - **CrewAI**: AI-based trip planner using OpenAI and LangChain
 
 ### 📫 How to reach me:
-- LinkedIn: [Tanish Gupta](https://www.linkedin.com/in/tanish-gupta)
+- LinkedIn: [Tanish Gupta](https://www.linkedin.com/in/tanish-gupta01)
 - Email: officialtanishgupta@gmail.com
 
 ### ⚡ Fun fact:
